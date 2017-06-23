@@ -1,0 +1,9 @@
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.lib.MutableMetricsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+***** Contents of the Directory *****
+hdfs://localhost:9000/hbasestorage
+hdfs://localhost:9000/tmp
+hdfs://localhost:9000/user
+hdfs://localhost:9000/zookeeper
+
